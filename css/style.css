@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(to bottom right, #2BAFFA, #444);
+}
+
+h1, h2 {
+    color: #EEE;
+}
+
+a, a:hover, a:visited {
+    color: #EEE;
+    text-decoration: inherit;
+}
+
+.name-header {
+    text-align: center;
+}
+
+.icons-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+}
+
+.icon-circle {
+    margin: 0px 5px;
+    padding: 15px;
+    border-radius: 50%;
+    border: 3px solid #EEE;
+    display: inline-block;
+}
+
+.header-section {
+    /*background-color: #2BAFFA;*/
+    height: 70vh;
+}
+
+.swifty-fire-header {
+    color: #F05138;
+}
+
+.card .card-subcontent {
+    padding: 10px 24px;
+}
+
+.card-tech-stack {
+    display: flex;
+}
+
+.card-tech-stack > i {
+    margin: 0px 2px;
+}
+
+.card-tech-stack > i::before {
+    margin: 0px;
+}
