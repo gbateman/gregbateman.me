@@ -41,6 +41,10 @@ a, a:hover, a:visited {
     color: #F05138;
 }
 
+.school-adventure-header {
+    color: #5D4037;
+}
+
 .card .card-subcontent {
     padding: 10px 24px;
 }
