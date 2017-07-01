@@ -73,6 +73,14 @@ a, a:visited, a:hover, a:active {
     color: #F05138;
 }
 
+.chaotic-mobile-header {
+    color: inherit;
+}
+
+.lol-dashboard-header {
+    color: #1F6361;
+}
+
 .school-adventure-header {
     color: #5D4037;
 }
