@@ -73,6 +73,10 @@ a, a:visited, a:hover, a:active {
     color: #F05138;
 }
 
+.pokelist-header {
+    color: #548;
+}
+
 .chaotic-mobile-header {
     color: inherit;
 }
