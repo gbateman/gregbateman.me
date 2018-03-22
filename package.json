@@ -1,0 +1,22 @@
+{
+  "name": "gregbateman.me",
+  "version": "1.0.0",
+  "description": "My Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerbot150/gregbateman.me.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerbot150/gregbateman.me/issues"
+  },
+  "homepage": "https://github.com/gerbot150/gregbateman.me#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
