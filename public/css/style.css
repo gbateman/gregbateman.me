@@ -69,6 +69,10 @@ a, a:visited, a:hover, a:active {
     display: inline-block;
 }
 
+.messenger-mtg-card-fetcher-header {
+    color: #850057;
+}
+
 .swifty-fire-header {
     color: #F05138;
 }
@@ -81,13 +85,13 @@ a, a:visited, a:hover, a:active {
     color: inherit;
 }
 
-.lol-dashboard-header {
+/* .lol-dashboard-header {
     color: #1F6361;
 }
 
 .school-adventure-header {
     color: #5D4037;
-}
+} */
 
 .card .card-subcontent {
     padding: 10px 24px;
