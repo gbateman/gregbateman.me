@@ -30,6 +30,10 @@ a, a:visited, a:hover, a:active {
     text-align: center;
 }
 
+.name-header > h1 {
+    font-size: 3em;
+}
+
 .page-jump-container {
     display: flex;
     flex-direction: column;
@@ -67,6 +71,10 @@ a, a:visited, a:hover, a:active {
     border-radius: 50%;
     border: 3px solid #EEE;
     display: inline-block;
+}
+
+.mtgdeks-header {
+    color: #253589;
 }
 
 .messenger-mtg-card-fetcher-header {
