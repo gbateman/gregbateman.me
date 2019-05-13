@@ -1,14 +1,20 @@
 body {
     /* from #2baffa, to halfway to #444444, to #622262*/
-    background: linear-gradient(to top right, #2BAFFA, #444/*#37799F, #622262*/);
+    /* background: linear-gradient(to top right, #2BAFFA, #444); */
+    background: linear-gradient(to bottom, #000 0%, #000 40%, #2baffa 100%);
 }
 
 h1, h2 {
     color: #EEE;
 }
 
-.header-row {
-    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../images/wave.png) center center/cover;
+#myCanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #000;
 }
 
 .header-section {
